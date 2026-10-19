@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# Executables and debug symbols (release binaries live in GitHub Releases)
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.ilk
+*.exp
+*.lib
+*.obj
+
+# Logs and local settings
+*.log
+*.bak
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
